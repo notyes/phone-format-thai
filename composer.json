@@ -1,0 +1,13 @@
+{
+    "name": "nharm/phone-format-thai",
+    "description": "for changer format number phone in thai format and international number phone format",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jirayu Kanda",
+            "email": "n.object12@gmail.com"
+        }
+    ],
+    "require": {}
+}
